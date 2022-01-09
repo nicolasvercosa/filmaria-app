@@ -1,0 +1,24 @@
+P {
+    text-align: center;
+    font-size: 70pt;
+    font-weight: 600;
+    margin: 0;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h2 a {
+    font-size: 18pt;
+    color: brown;
+    text-decoration: none;
+    transition: all 0.5s;
+}
+
+h2 a:hover {
+    font-size: 20pt;
+    color: brown;
+    text-decoration: underline;
+    
+}
